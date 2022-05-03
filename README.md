@@ -9,8 +9,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center"><strong>Welcome to my GitHub!</strong><br><br>
-  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/benmaxibi)
+<br><p align="center"><strong>Welcome to my GitHub!</strong><br>
+  [![Hello](https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif)](https://github.com/benmaxibi)
 </p>
 
 
