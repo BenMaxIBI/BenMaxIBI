@@ -10,7 +10,7 @@
   <td width="50%">
 
 <br><p align="center"><strong>Welcome to my GitHub!</strong><br><br>
-  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/benmaxgcu)
+  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/benmaxibi)
 </p>
 
 
